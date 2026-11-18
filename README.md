@@ -1,3 +1,4 @@
-Страницы приложений.
+# Albert Čereško · Apps
 
-- [Политика конфиденциальности «Голодание»](https://albertchereshko.github.io/golodanie/privacy.html)
+Pages for my apps: privacy policies and account deletion.
+Index: <https://albertchereshko.github.io>
